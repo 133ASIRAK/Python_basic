@@ -31,7 +31,7 @@ print('Learn Python', file=sys.stdout)
 print()
 
 # format 사용 (d:3, s:'python', f:3.1445454)
-d=disit 정수
+d=digit 정수
 s=string 문자열
 f=실수
 print('%s %s' % ('one', 'two'))
